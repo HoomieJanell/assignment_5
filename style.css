@@ -29,3 +29,7 @@ h2 {
 p {
     font-size: 25px;
 }
+
+h1, h2 {
+    margin-left: 50px;
+}
