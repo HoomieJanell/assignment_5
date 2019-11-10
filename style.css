@@ -1,7 +1,31 @@
-#hour {
-    float: left;
+body {
+    font-family: "Optima", sans-serif, "Didot", serif;
+    /* background-color: #4d8a5d; */
+    background-color: #6382bf;
+}
+
+.container {
+    color: #b3b3b3;
+
 }
 
 #submit {
-    float: right;
+    background-color: #b3b3b3;
+    width: 100px;
+    margin-left: 20px;
+    margin-bottom: 70px;
+    
+}
+
+.textarea {
+    width: 600px;
+    
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 25px;
 }
